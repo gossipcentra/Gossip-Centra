@@ -49,6 +49,7 @@ footer {
   margin-top: 2rem;
 }
 
-p {
+body p {
   font-size: 18px;
   line-height: 1.6;
+}
